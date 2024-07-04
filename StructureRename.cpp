@@ -1,3 +1,5 @@
+// Renaming the structure and using the typedef.
+// typedef is a keyword that is used to assign a new name to any existing data-type.
 #include <iostream>
 using namespace std;
 
