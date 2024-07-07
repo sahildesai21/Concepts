@@ -5,7 +5,7 @@ using namespace std;
 // Driver program to test behavior of nullptr
 int main()
 {
-    // creating two variables of nullptr_t type 
+    // creating two variables of nullptr_t type ṇ
     // i.e., with value equal to nullptr
     nullptr_t np1, np2;
 
